@@ -68,7 +68,7 @@ I'm an analytical thinker with a strong desire to learn.  My passion extends bey
 
 * **[MERN Mini-Shop](https://github.com/Krzysiekdobosz/ShopReactNodejs):**  An e-commerce platform built using the MERN stack. (...)
 * **[Laravel-DanceGroupPage](https://github.com/Krzysiekdobosz/Laravel-Project):** A website for a dance formation created with Laravel. (...)
-* **[Covid-Data-Processing-WebPage](https://github.com/Krzysziekdobosz/Covid-Vaccinations-WebApp-React-Nodejs):** A webpage that processes data related to COVID-19. (...)
+* **[Covid-Data-Processing-WebPage](https://github.com/Krzysiekdobosz/Covid-Vaccinations-WebApp-React-Nodejs):** A webpage that processes data related to COVID-19. (...)
 * ...more coming soon!
 
 ##  Certificates:
