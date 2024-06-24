@@ -11,7 +11,7 @@ I'm an analytical thinker with a strong desire to learn.  My passion extends bey
 ##  🔭 Currently Working On:
 
 * **MERN Mini-Shop:** An e-commerce platform built with the MERN stack. (...)
-
+* **CV/PORTFOLIO SITE** (...)
 ##  Connect with me:
 
 <p align="left">
