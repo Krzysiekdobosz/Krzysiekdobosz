@@ -6,7 +6,7 @@ I'm deeply fascinated by programming and emerging technologies. My journey in th
 
 ##  About Me
 
-I'm an analytical thinker with a strong desire to learn. I love solving problems and creating functional, aesthetically pleasing applications. My passion extends beyond just writing code; I also enjoy sharing knowledge and collaborating with others. Outside of programming, I'm passionate about ballroom dancing, which has taught me discipline, teamwork, and creativity.
+I'm an analytical thinker with a strong desire to learn.  My passion extends beyond just writing code; I also enjoy sharing knowledge and collaborating with others. Outside of programming, I'm passionate about ballroom dancing, which has taught me discipline, teamwork, and creativity.
 
 ##  🔭 Currently Working On:
 
