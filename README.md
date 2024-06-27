@@ -110,8 +110,6 @@ I'm an analytical thinker with a strong desire to learn.  My passion extends bey
 
 
 <p align="center">
-  <a href="https://github.com/krzysiekdobosz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krzysiekdobosz&show_icons=true&locale=en&layout=compact" alt="krzysiekdobosz" />
   </a>
 </p>
 
