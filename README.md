@@ -39,7 +39,6 @@ I'm an analytical thinker with a strong desire to learn.  My passion extends bey
   <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer" title="Spring"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a
 </p>
 
 ### Mobile
