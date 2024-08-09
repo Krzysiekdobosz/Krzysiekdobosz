@@ -108,11 +108,13 @@ I'm an analytical thinker with a strong desire to learn.  My passion extends bey
 </ul>
 
 
+ 
 <p align="center">
   </a>
 </p>
 
 ##  Get in Touch!
+
 If you'd like to discuss projects, collaboration opportunities, or just chat about programming, feel free to reach out!
 ---
 
