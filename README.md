@@ -1,6 +1,6 @@
 ##  👋 Hi, I'm Krzysztof!
 
-###  A passionate fullstack developer and final-year computer science student.
+###  A passionate fullstack developer and a Bachelor's degree in Computer Science.
 
 I'm deeply fascinated by programming and emerging technologies. My journey in the world of code is full of challenges and satisfaction, and I've honed my skills in various programming languages and frameworks. Beyond programming, I also hold the position of president of a social dance formation. I'm committed to continuous learning and growth, and I'm eager to contribute my skills and enthusiasm to exciting projects within the tech industry.
 
